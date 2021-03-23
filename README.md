@@ -5,7 +5,7 @@ Este es un proyecto ilustrativo de algunas cosas que se pueden hacer con TS. htt
 
 ### Compilar proyecto:
 ===
-Para compilar el proyecto solo es necesario ejectutar el comando "npm run build", por defecto conpilara en modo "dev".
+Para compilar el proyecto solo es necesario ejectutar el comando "npm run build", por defecto compilará en modo "dev".
 
 ### Correr el proyecto:
 ===
