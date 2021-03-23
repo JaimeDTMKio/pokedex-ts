@@ -1,6 +1,6 @@
 ## Pokedex En Typescript
 ===
-Este es un proyecto ilustrativo de algunas cosas que se pueden hacer con TS. [pokedex Ts]:https://pokedex-ts.web.app/
+Este es un proyecto ilustrativo de algunas cosas que se pueden hacer con TS. [https://pokedex-ts.web.app/]:Pokedex TS
 
 
 ### Compilar proyecto:
